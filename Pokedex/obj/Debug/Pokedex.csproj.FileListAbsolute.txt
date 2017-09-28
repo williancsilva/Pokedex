@@ -1,0 +1,20 @@
+D:\Estudo\Projetos\Pokedex\Pokedex\bin\Debug\Pokedex.exe.config
+D:\Estudo\Projetos\Pokedex\Pokedex\bin\Debug\Pokedex.exe
+D:\Estudo\Projetos\Pokedex\Pokedex\bin\Debug\Pokedex.pdb
+D:\Estudo\Projetos\Pokedex\Pokedex\obj\Debug\Pokedex.csprojResolveAssemblyReference.cache
+D:\Estudo\Projetos\Pokedex\Pokedex\obj\Debug\Pokedex.exe
+D:\Estudo\Projetos\Pokedex\Pokedex\obj\Debug\Pokedex.pdb
+D:\Estudo\Projetos\Pokedex\Pokedex\bin\Debug\Newtonsoft.Json.dll
+D:\Estudo\Projetos\Pokedex\Pokedex\bin\Debug\Newtonsoft.Json.xml
+C:\Users\wcandido\Documents\Willian\Estudo\Projetos\Web API\Pokedex\Pokedex\bin\Debug\Pokedex.exe.config
+C:\Users\wcandido\Documents\Willian\Estudo\Projetos\Web API\Pokedex\Pokedex\obj\Debug\Pokedex.exe
+C:\Users\wcandido\Documents\Willian\Estudo\Projetos\Web API\Pokedex\Pokedex\obj\Debug\Pokedex.pdb
+C:\Users\wcandido\Documents\Willian\Estudo\Projetos\Web API\Pokedex\Pokedex\bin\Debug\Pokedex.exe
+C:\Users\wcandido\Documents\Willian\Estudo\Projetos\Web API\Pokedex\Pokedex\bin\Debug\Pokedex.pdb
+C:\Users\wcandido\Documents\Willian\Estudo\Projetos\Web API\Pokedex\Pokedex\bin\Debug\Newtonsoft.Json.dll
+C:\Users\wcandido\Documents\Willian\Estudo\Projetos\Web API\Pokedex\Pokedex\bin\Debug\Newtonsoft.Json.xml
+C:\Users\wcandido\Documents\Willian\Estudo\Projetos\Web API\Pokedex\Pokedex\obj\Debug\Pokedex.csprojResolveAssemblyReference.cache
+C:\Users\wcandido\Documents\Willian\Estudo\Projetos\Web API\Pokedex\Pokedex\bin\Debug\Pokedex.exe.manifest
+C:\Users\wcandido\Documents\Willian\Estudo\Projetos\Web API\Pokedex\Pokedex\bin\Debug\Pokedex.application
+C:\Users\wcandido\Documents\Willian\Estudo\Projetos\Web API\Pokedex\Pokedex\obj\Debug\Pokedex.exe.manifest
+C:\Users\wcandido\Documents\Willian\Estudo\Projetos\Web API\Pokedex\Pokedex\obj\Debug\Pokedex.application
